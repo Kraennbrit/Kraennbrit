@@ -1,4 +1,4 @@
-## Hey there
+## Hey there 👁️‍🗨️​
 I'm a fullstack web developer and CS student.
 
 ## Languages and Tools:
@@ -7,4 +7,4 @@ I'm a fullstack web developer and CS student.
 ## Softwares:
 ![My Skills](https://skillicons.dev/icons?i=vscode,git,github)|![My Skills](https://skillicons.dev/icons?i=mongodb)
 
-![](https://img.shields.io/badge/currently-online-brightgreen?style=flat-square) ![](https://img.shields.io/badge/coding-nothing-lightgrey?style=flat-square&logo=visualstudiocode)
+![](https://img.shields.io/badge/currently-online-brightgreen?style=flat-square) ![](https://img.shields.io/badge/coding-WebSite-lightblue?style=flat-square&logo=visualstudiocode)
