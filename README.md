@@ -5,4 +5,4 @@
 ## Softwares:
 ![My Skills](https://skillicons.dev/icons?i=vscode,git,github,mongodb)
 
-![](https://img.shields.io/badge/currently-online-brightgreen?style=flat-square) ![](https://img.shields.io/badge/coding-Website-blue?style=flat-square&logo=visualstudiocode)
+![](https://img.shields.io/badge/currently-online-brightgreen?style=flat-square) ![](https://img.shields.io/badge/coding-OurPlaza-blue?style=flat-square&logo=visualstudiocode)
