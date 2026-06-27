@@ -1,11 +1,11 @@
-## Hey there 👁️‍🗨️​
-§ I'm a fullstack web developer and CS student who could be willing to work in a cool ideia. ​❇️​
+## Hey 👁️‍🗨️
+§ I'm a fullstack web developer and CS student. ​
 ## Languages and Tools:
-![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,c,html,css&perline=7)
+![My Skills](https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,go,c&perline=4)
 ## Softwares:
 ![My Skills](https://skillicons.dev/icons?i=vscode,git,github,mongodb)
 
-![](https://img.shields.io/badge/currently-online-brightgreen?style=flat-square) ![](https://img.shields.io/badge/coding-OurPlaza-blue?style=flat-square&logo=visualstudiocode)
+![](https://img.shields.io/badge/Fuel-85%25-orange?style=flat-square) ![](https://img.shields.io/badge/Working_On-Nothing_ATM-blue?style=flat-square&logo=visualstudiocode)
 
 ## 🔨 [Check Out my Work] 
 https://ourplaza.onrender.com
