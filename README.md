@@ -5,7 +5,7 @@
 ## Softwares:
 ![My Skills](https://skillicons.dev/icons?i=vscode,git,github,mongodb)
 
-![](https://img.shields.io/badge/Fuel-85%25-orange?style=flat-square) ![](https://img.shields.io/badge/Working_On-Nothing_ATM-blue?style=flat-square&logo=visualstudiocode)
+![](https://img.shields.io/badge/Fuel-85%25-orange?style=flat-square) ![](https://img.shields.io/badge/Watching-MTAHG-blue?style=flat-square&logo=visualstudiocode)
 
 ## 🔨 [Check Out my Work] 
 https://ourplaza.onrender.com
