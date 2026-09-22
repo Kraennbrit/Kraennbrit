@@ -1,4 +1,4 @@
-## Hey 👁️‍🗨️
+## Hey 
 § I'm a fullstack web developer and CS student. ​
 ## Languages and Tools:
 ![My Skills](https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,go,c&perline=4)
